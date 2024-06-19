@@ -18,7 +18,18 @@
     ·
     <a href="https://hackerone.com/puter_h1b">Bug Bounty</a>
 </p>
+<h1></h1>
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-rSEMujgakfnxGooMVXD4m2TCZ3nw9ymU04Sw-XskEHqTqTYV71DMKvK3c7mFLIP0H4g&usqp=CAU" alt="La tua scritta in H1 rossa">
+</div>
+<div align="center">
+<h3><strong>In case of an error in the run-selfhosted.js file, change line 57 to:</strong></h3> 
+</div>
 
+```javascript
+get: () => import.meta.url.slice('file://'.length), 
+```
+<h1></h1>
 <h3 align="center"><img width="700" style="border-radius:5px;" alt="screenshot" src="https://assets.puter.site/puter.com-screenshot-2.webp"></h3>
 
 <br/>
