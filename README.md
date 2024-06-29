@@ -3,7 +3,7 @@
 <h3 align="center">The Internet OS! Free, Open-Source, and Self-Hostable.</h3>
 
 <h1>Releases</h1>
-<p>https://github.com/HeyPuter/puter/releases (recommended)</p>
+<p>https://github.com/HeyPuter/puter/releases (recommended 2.2.0 version)</p>
 <p align="center">
     <a href="https://puter.com/"><strong>« LIVE DEMO »</strong></a>
     <br />
